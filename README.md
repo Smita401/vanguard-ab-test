@@ -11,7 +11,7 @@ In today's rapidly evolving digital landscape, Vanguard recognizes the importanc
 
 ### Key Questions
 The critical question driving this project was:
- _"Would the implementation of these changes lead to increased client engagement and completion rates of online processes?"_
+ ___"Would the implementation of these changes lead to increased client engagement and completion rates of online processes?"___
 
 ## Repository Contents
 **Data Analysis:** This directory contains the code and notebooks used to analyze the experiment data.
