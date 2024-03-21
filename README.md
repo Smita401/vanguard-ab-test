@@ -14,9 +14,9 @@ The critical question driving this project was:
 _"Would the implementation of these changes lead to increased client engagement and completion rates of online processes?"_
 
 ## Repository Contents
-**Data Analysis:** This directory contains the code and notebooks used to analyze the experiment data.
-**Results:** Here, you'll find the insights and findings derived from the analysis.
-**Documentation:** Any additional documentation related to the experiment and analysis will be stored here.
+- **Data Analysis:** This directory contains the code and notebooks used to analyze the experiment data.
+- **Results:** Here, you'll find the insights and findings derived from the analysis.
+- **Documentation:** Any additional documentation related to the experiment and analysis will be stored here.
 
 ## How to Use This Repository
 1. Clone the repository to your local machine
