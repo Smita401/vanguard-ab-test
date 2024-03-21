@@ -1,4 +1,4 @@
-__Uncovering insights from Vanguard's digital experiment,  to assess the effectiveness of UI and in-context prompts in enhancing client engagement.__
+_Uncovering insights from Vanguard's digital experiment,  to assess the effectiveness of UI and in-context prompts in enhancing client engagement._
 
 # Vanguard CX Data Analysis Project
 Welcome to the Vanguard Customer Experience (CX) Data Analysis Project! This repository contains the analysis and findings of a digital experiment conducted by the CX team at Vanguard, a US-based investment management company.
@@ -15,9 +15,7 @@ Would the implementation of these changes lead to increased client engagement an
 
 ## Repository Contents
 **Data Analysis:** This directory contains the code and notebooks used to analyze the experiment data.
-
 **Results:** Here, you'll find the insights and findings derived from the analysis.
-
 **Documentation:** Any additional documentation related to the experiment and analysis will be stored here.
 
 ## How to Use This Repository
